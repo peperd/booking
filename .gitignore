@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+chromedriver
+table.txt
+booking/__pycache__/__init__.cpython-39.pyc
+booking/__pycache__/booking.cpython-39.pyc
+booking/__pycache__/constants.cpython-39.pyc
+booking/__pycache__/filtration.cpython-39.pyc
