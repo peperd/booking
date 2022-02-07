@@ -1,10 +1,10 @@
 # Pet Project: Bot www.booking.com
-![GitHub all releases](https://img.shields.io/github/downloads/peperd/booking.com-bot/total?logo=Github)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/peperd/booking.com-bot?logo=GIthub)
-![GitHub repo size](https://img.shields.io/github/repo-size/peperd/booking.com-bot?logo=Github)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/peperd/booking.com-bot&left_color=green&right_color=red)
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/peperd/booking?logo=GIthub)
+![GitHub repo size](https://img.shields.io/github/repo-size/peperd/booking?logo=Github)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/peperd/booking&left_color=green&right_color=red)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/scrapy)
-![Selenium](https://img.shields.io/badge/Selenium4.0-webdriver-green?style=plastic&logo=Selenium)
+![Selenium](https://img.shields.io/badge/Selenium-webdriver-green?style=plastic&logo=Selenium)
 ![Prettytable](https://img.shields.io/badge/PrettyTable-yelloegreen?style=plastic&logo=prettytable)
 ![Black](https://img.shields.io/badge/code_style-black-black)
 
